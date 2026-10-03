@@ -1,0 +1,1 @@
+{"wells":[{"id":"W1","collar":{"east":100,"north":200,"elevation":350},"stations":[{"md":0,"inclination":0,"azimuth":0},{"md":60,"inclination":30,"azimuth":45},{"md":120,"inclination":60,"azimuth":90}]}]}
