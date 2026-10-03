@@ -1,0 +1,22 @@
+{
+  "holes": [
+    {
+      "id": "H1",
+      "collar": {"east": 0.0, "north": 0.0, "elevation": 100.0},
+      "stations": [
+        {"md": 0, "inclination": 0, "azimuth": 0},
+        {"md": 100, "inclination": 0, "azimuth": 0},
+        {"md": 160, "inclination": 30, "azimuth": 45},
+        {"md": 220, "inclination": 60, "azimuth": 90}
+      ]
+    },
+    {
+      "id": "H2",
+      "collar": {"east": 50.0, "north": -20.0, "elevation": 98.5},
+      "stations": [
+        {"md": 0, "inclination": 5, "azimuth": 180},
+        {"md": 80, "inclination": 12, "azimuth": 200}
+      ]
+    }
+  ]
+}
